@@ -133,6 +133,6 @@ This work is partially funded by the following EU & UKRI grants (most recent fir
 
 ## License
 
-MIT License
+[![License: Apache 2](https://img.shields.io/badge/License-Apache%202.0-red.svg)](https://github.com/beehive-lab/TornadoVMPulse/blob/main/LICENSE)
 
 ---
